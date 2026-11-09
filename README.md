@@ -1,6 +1,25 @@
 # Fork Notice
 I am not continuing the development of NationStates BattleSimulator/NSBS. I have forked this repository purely to research things for Drumfire, my spiritual successor to Forrest's NSBS that was written in Java. Drumfire is written in Rust, and will feature many new and unique features than NSBS had.
 
+# Why Not Continue NSBS?
+Because while I have loved working with Java, the last time I worked with it was to make Minecraft plugins for a now largely dead Minecraft server. Since then I've returned to coding in Rust, and making my own programming language named Morrow. Both have made me realized how much I despised coding in Java. Also, I don't feel like updating all of the code and it runs poorly, along with the on-going issues. I think the standard of 2013-2015 that it was innovative, especially to the community of NationStates, but I don't think it has aged well to the standards of of the 2020s.
+
+# What happened to NSBS: Online?
+NSBS: Online, a mobile successor to NSBS: Java, was canceled more than once by myself. I always found myself worrying about security, and furthermore, forking over real money to maintain it with no possibility of requesting donations. With that being said, killed the drive on working on it.
+
+# Why now? 
+I feel like it. I also think it can benefit the NationStates community, a community I've been a part of off and on since 2013.
+
+# What will Drumfire achieve that NSBS cannot?
+Compile, run fast, and add the ability to have modes, updates, and many QoL features while using similar mathmatics that the original NSBS did, but more fleshed out, modernized, and needless to say the rustic line, **faster**.
+
+# Where is Drumfire?
+Drumfire can be located here: https://github.com/LeTrollologist/Drumfire/tree/main
+
+A support/development/community Discord server will be created at a later date when I am satisfied with the progress of Drumfire and am ready to release it in a substantial manner, now is not that time.
+
+---
+# Original README for NSBS below
 
 # NationStatesBattleSim
 NationStates Battle Simulator is a roleplaying supplement and Battle Simulator for Nation States.  It's designed to take input from the user for different factors of battle: Force Count, Morale, Technology, Training, Combat Experience, Logistics, and Intel, and simulate the outcome of a skirmish to be roleplayed out after.  This allows for constructive roleplay, as the outcome of the battle isn't decided by story arc alone.  
